@@ -9,7 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Based out of Rochester, NY/p>
+    <p>Based out of Rochester, NY</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,15 +26,8 @@ latest_posts:
 ---
 Strategic operations, people-focused leadership, and structured execution that turn vision into outcomes.
 
-Short Intro Paragraph
-
 Welcome to SucceedWith.me — a personal leadership space designed to showcase how clarity, structure, and cross-functional alignment drive meaningful results. I help teams succeed by bringing order to complexity, elevating communication, and building frameworks that move organizations forward with confidence and momentum.
 
-CTA Buttons
-
-    •    Learn About My Work
-
-    •    Download My Resume
 
 
 ABOUT SECTION
