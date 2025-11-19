@@ -21,7 +21,7 @@ ninja.data = [{
           description: "A highlight of work experience and resume for download.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resume/";
+            window.location.href = "/cv/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
