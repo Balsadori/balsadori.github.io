@@ -28,39 +28,53 @@ latest_posts:
 
 Welcome to SucceedWith.me — a personal leadership space designed to showcase how clarity, structure, and cross-functional alignment drive meaningful results. I help teams succeed by bringing order to complexity, elevating communication, and building frameworks that move organizations forward with confidence and momentum.
 
-*Strategic operations, people-focused leadership, and structured execution that turn vision into outcomes.*
+> *Strategic operations, people-focused leadership, and structured execution that turn vision into outcomes.*
 
 
-#**Who I Am**
+## **Who I Am**
 
 I’m Jenn Farrell — an operations leader with a strategic mindset, an MBA foundation, and a natural drive to organize chaos into coordinated, measurable progress. I specialize in connecting people, process, and technology to create clarity, enable alignment, and deliver outcomes that last.
 
 I thrive in environments where there’s ambiguity, competing priorities, and complex technical ecosystems. My approach blends big-picture thinking with practical execution, ensuring teams not only move forward — but move forward together.
 
-#**What I Value**
+## **What I Value**
 
-    - Clear communication
-    - Transparent leadership
-    - Cross-functional partnership
-    - Strategic decision-making
-    - Momentum through structure
-    - Empowering others to succeed
+- Clear communication
+- Transparent leadership
+- Transparent leadership
+- Cross-functional partnership
+- Strategic decision-making
+- Momentum through structure
+- Empowering others to succeed
 
 
-#**The SUCCEED Framework™**
+## **The SUCCEED Framework™**
 
 **S** – *Simplify the Problem*
-    Break down complexity into clear, digestible components.
+
+> Break down complexity into clear, digestible components.
+
 **U** – *Understand the Ecosystem*
-    Connect technology, process, and people to see the full picture.
+
+> Connect technology, process, and people to see the full picture.
+
 **C** – *Create Alignment*
-    Drive clarity across teams, roles, and expectations.
+
+> Drive clarity across teams, roles, and expectations.
+
 **C** – *Construct the Plan*
-    Build structured, realistic roadmaps that account for dependencies.
+
+> Build structured, realistic roadmaps that account for dependencies.
+    
 **E** – *Execute with Accountability*
-    Ensure follow-through, communication, and measurable results.
+
+> Ensure follow-through, communication, and measurable results.
+
 **E** – *Elevate the Outcome*
-    Refine, optimize, and create sustainable improvements.
+
+> Refine, optimize, and create sustainable improvements.
+
 **D** – *Deliver Results That Stick*
-    Focus on long-term impact, not temporary fixes.
+
+> Focus on long-term impact, not temporary fixes.
 
