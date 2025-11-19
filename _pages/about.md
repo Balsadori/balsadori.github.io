@@ -20,69 +20,47 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Strategic operations, people-focused leadership, and structured execution that turn vision into outcomes.
+
 
 Welcome to SucceedWith.me — a personal leadership space designed to showcase how clarity, structure, and cross-functional alignment drive meaningful results. I help teams succeed by bringing order to complexity, elevating communication, and building frameworks that move organizations forward with confidence and momentum.
 
+*Strategic operations, people-focused leadership, and structured execution that turn vision into outcomes.*
 
 
-ABOUT SECTION
-
-Who I Am
+#**Who I Am**
 
 I’m Jenn Farrell — an operations leader with a strategic mindset, an MBA foundation, and a natural drive to organize chaos into coordinated, measurable progress. I specialize in connecting people, process, and technology to create clarity, enable alignment, and deliver outcomes that last.
 
 I thrive in environments where there’s ambiguity, competing priorities, and complex technical ecosystems. My approach blends big-picture thinking with practical execution, ensuring teams not only move forward — but move forward together.
 
-What I Value
+#**What I Value**
 
-    •    Clear communication
-
-    •    Transparent leadership
-
-    •    Cross-functional partnership
-
-    •    Strategic decision-making
-
-    •    Momentum through structure
-
-    •    Empowering others to succeed
+    - Clear communication
+    - Transparent leadership
+    - Cross-functional partnership
+    - Strategic decision-making
+    - Momentum through structure
+    - Empowering others to succeed
 
 
-THE SUCCEED FRAMEWORK™
+#**The SUCCEED Framework™**
 
-(This is your signature method — created specifically for your branding)
+**S** – *Simplify the Problem*
+    Break down complexity into clear, digestible components.
+**U** – *Understand the Ecosystem*
+    Connect technology, process, and people to see the full picture.
+**C** – *Create Alignment*
+    Drive clarity across teams, roles, and expectations.
+**C** – *Construct the Plan*
+    Build structured, realistic roadmaps that account for dependencies.
+**E** – *Execute with Accountability*
+    Ensure follow-through, communication, and measurable results.
+**E** – *Elevate the Outcome*
+    Refine, optimize, and create sustainable improvements.
+**D** – *Deliver Results That Stick*
+    Focus on long-term impact, not temporary fixes.
 
-S – Simplify the Problem
-
-Break down complexity into clear, digestible components.
-
-U – Understand the Ecosystem
-
-Connect technology, process, and people to see the full picture.
-
-C – Create Alignment
-
-Drive clarity across teams, roles, and expectations.
-
-C – Construct the Plan
-
-Build structured, realistic roadmaps that account for dependencies.
-
-E – Execute with Accountability
-
-Ensure follow-through, communication, and measurable results.
-
-E – Elevate the Outcome
-
-Refine, optimize, and create sustainable improvements.
-
-D – Deliver Results That Stick
-
-Focus on long-term impact, not temporary fixes.
-
-This framework reflects how you lead, how you think, and how you make things succeed — perfect for a leadership brand.
