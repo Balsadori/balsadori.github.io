@@ -8,8 +8,8 @@ profile:
   align: right
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Based out of Rochester, NY</p>
+#  more_info: >
+#    <p>Based out of Rochester, NY</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -55,16 +55,22 @@ I thrive in environments where there’s ambiguity, competing priorities, and co
 
 #### **S** – *Simplify the Problem*
 - Break down complexity into clear, digestible components.
+
 #### **U** – *Understand the Ecosystem*
 - Connect technology, process, and people to see the full picture.
+
 #### **C** – *Create Alignment*
 - Drive clarity across teams, roles, and expectations.
+
 #### **C** – *Construct the Plan*
-- Build structured, realistic roadmaps that account for dependencies.    
+- Build structured, realistic roadmaps that account for dependencies.
+
 #### **E** – *Execute with Accountability*
 - Ensure follow-through, communication, and measurable results.
+
 #### **E** – *Elevate the Outcome*
 - Refine, optimize, and create sustainable improvements.
+
 #### **D** – *Deliver Results That Stick*
 - Focus on long-term impact, not temporary fixes.
 
